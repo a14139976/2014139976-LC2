@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\bin\Debug\EmpresaTransporte.Persistence.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\bin\Debug\EmpresaTransporte.Persistence.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\bin\Debug\EmpresaTransporte.Persistence.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\bin\Debug\EmpresaTransporte.Entities.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\bin\Debug\EmpresaTransporte.Entities.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\obj\Debug\EmpresaTransporte.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\obj\Debug\EmpresaTransporte.Persistence.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\obj\Debug\EmpresaTransporte.Persistence.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\obj\Debug\EmpresaTransporte.Persistence.Migrations.prueba1.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Persistence\obj\Debug\EmpresaTransporte.Persistence.csproj.GenerateResource.Cache

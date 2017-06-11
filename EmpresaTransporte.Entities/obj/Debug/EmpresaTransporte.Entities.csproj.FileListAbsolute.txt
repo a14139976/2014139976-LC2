@@ -1,0 +1,13 @@
+E:\Proyectos\Visual Studio Projects\EmpresaTransporte\EmpresaTransporte.Entities\bin\Debug\EmpresaTransporte.Entities.dll
+E:\Proyectos\Visual Studio Projects\EmpresaTransporte\EmpresaTransporte.Entities\bin\Debug\EmpresaTransporte.Entities.pdb
+E:\Proyectos\Visual Studio Projects\EmpresaTransporte\EmpresaTransporte.Entities\obj\Debug\EmpresaTransporte.Entities.dll
+E:\Proyectos\Visual Studio Projects\EmpresaTransporte\EmpresaTransporte.Entities\obj\Debug\EmpresaTransporte.Entities.pdb
+C:\Users\Usuario\Downloads\EmpresaTransporte\EmpresaTransporte.Entities\obj\Debug\EmpresaTransporte.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\EmpresaTransporte\EmpresaTransporte.Entities\obj\Debug\EmpresaTransporte.Entities.dll
+C:\Users\Usuario\Downloads\EmpresaTransporte\EmpresaTransporte.Entities\obj\Debug\EmpresaTransporte.Entities.pdb
+C:\Users\Usuario\Downloads\EmpresaTransporte\EmpresaTransporte.Entities\bin\Debug\EmpresaTransporte.Entities.dll
+C:\Users\Usuario\Downloads\EmpresaTransporte\EmpresaTransporte.Entities\bin\Debug\EmpresaTransporte.Entities.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Entities\bin\Debug\EmpresaTransporte.Entities.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Entities\bin\Debug\EmpresaTransporte.Entities.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Entities\obj\Debug\EmpresaTransporte.Entities.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\2014139976\EmpresaTransporte.Entities\obj\Debug\EmpresaTransporte.Entities.pdb
